@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+scikit-optimize
+tensorflow
+keras
+selenium
+beautifulsoup4
+matplotlib
+seaborn
